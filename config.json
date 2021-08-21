@@ -1,0 +1,8 @@
+{
+			"Username": "postgres",
+			"Password": "",
+			"Name": "dbcondo",
+			"Hostname": "127.0.0.1",
+			"Port": 5436,
+			"Parameter": "disable"
+}
